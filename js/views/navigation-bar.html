@@ -1,0 +1,22 @@
+<header 
+  class="home-menu pure-menu pure-menu-open pure-menu-horizontal" 
+  ng-class="{'active': expandMenu}"
+>
+
+  <div id="show-menu">
+    <i class="fa fa-bars" ng-click="expandMenu = !expandMenu"></i>
+  </div>
+
+  <ul>
+    <li class="pure-menu-selected">
+      <a href="/">Home</a>
+    </li>
+    <li>
+      <a href="" ng-click="reset()">Reset</a>
+    </li>
+    <li>
+      <a href="https://github.com/borteo/ng-wallet">View Source</a>
+    </li>
+  </ul>
+
+</header>
