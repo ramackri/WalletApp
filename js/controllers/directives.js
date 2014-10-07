@@ -74,7 +74,11 @@ directives.directive('wallet', [
             "val": "GBP",
             "symbol": "£",
             "icon": "gbp"
-          } 
+          }, {
+            "val": "INR",
+            "symbol": "र",
+            "icon": "inr"
+          }  
         ];
 
         // data should persist on a page refresh
