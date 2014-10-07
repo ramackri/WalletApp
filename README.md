@@ -39,7 +39,7 @@ Technologies/Frameworks used here :
 
 
 ## Installation
-=====================
+
 1.A web server is needed to run the application.  The server.js file starts an Node.js Express web server.
 3. In a command prompt at the WalletApp direction location, enter "node server.js 8000"  This will start the web server on port 8000
 4. View in browser at `http://localhost:8080`
