@@ -52,6 +52,7 @@ Technologies/Frameworks used here :
     WalletApp/          --> all of the files to be used in development
       js/controllers --> AngularJS controller and  directives files
 	  js/lib    ---> AngularJS js libraries 
+	  img/ajax-loader.gif ---> Ajax loader image file
 	  node_modules/  --> <!-- npm configuration to install dependencies/modules -->
       partials/   --> <!-- holds all our files for our front end angular application -->
       index.html  --> index page
